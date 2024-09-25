@@ -1,0 +1,18 @@
+.classred {
+    background-color: lightpink;
+}
+
+.bigger {
+    font-size: x-large;
+}
+
+#id1 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: x-large;
+    font-weight: bolder;
+}
